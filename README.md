@@ -1,6 +1,21 @@
 # reduce_resize_csv
 if you need a half size (or quarter etc) and reduced content csv for testing
 
+# To Run the Notebook
+```
+pipenv shell
+pipenv install pandas
+pipenv install jupyter
+jupyter notebook
+```
+
+### To run the script:
+```
+pipenv shell
+pipenv install pandas
+python3 resize.py
+```
+
 
 Sometimes you need to work on a .csv file but the file is very large (e.g. 1.6 gigs) and is cumbersome for some tasks where you do not need the whole file.
 
