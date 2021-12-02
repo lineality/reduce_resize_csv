@@ -1,7 +1,7 @@
 # reduce_resize_csv
 if you need a half size (or quarter etc) and reduced content csv for testing
 
-# To Run the Notebook
+### To Run the Notebook
 ```
 pipenv shell
 pipenv install pandas
@@ -21,6 +21,6 @@ Sometimes you need to work on a .csv file but the file is very large (e.g. 1.6 g
 
 With this tool you can make smaller versions of the .csv file.
 
-a python script version and a python notebook version are both available
+A python script version and a python notebook version are both available.
 
-the python script can be run in a terminal and will ask for file name and how many half-reductions you want
+The python script can be run in a terminal and will ask for file name and how many half-reductions you want.
