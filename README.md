@@ -13,7 +13,7 @@ jupyter notebook
 ```
 pipenv shell
 pipenv install pandas
-python3 resize.py
+python3 reduce_size_csv_v5.py
 ```
 
 
